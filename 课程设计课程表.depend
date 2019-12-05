@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1483433342 source:c:\users\lenovo\desktop\课程设计课程表\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<stdlib.h>
+	<stack>
+	<queue>
+	<windows.h>
+	<list>
+	<time.h>
+	<math.h>
+	<cstring>
+
+1575532785 source:d:\baidunetdiskdownload\课程设计课程表\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<stdlib.h>
+	<stack>
+	<queue>
+	<windows.h>
+	<list>
+	<time.h>
+	<math.h>
+	<cstring>
+
